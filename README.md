@@ -95,8 +95,27 @@ Atendo presencialmente na região de Franca/SP e **remotamente** para todo o Bra
 
 ---
 
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/romoreiira/romoreiira/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/romoreiira/romoreiira/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="Animação dos commits - github contribution grid snake"
+    src="https://raw.githubusercontent.com/romoreiira/romoreiira/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+</div>
+
+<p align="center"><i>"Automatize o repetitivo. Libere o humano para o que importa."</i></p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rodrigo-moreira&color=2ECC71&style=flat-square&label=Visitas+ao+perfil" alt="profile views" />
 </p>
-
-<p align="center"><i>"Automatize o repetitivo. Libere o humano para o que importa."</i></p>
